@@ -1,0 +1,7 @@
+Jose; 25
+Gustavo ; 41
+Kael; 31
+Rayane; 29
+Paulo; 35
+Diego; 29
+Maria; 81
